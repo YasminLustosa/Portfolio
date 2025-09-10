@@ -1,0 +1,262 @@
+.hero {
+  position: relative;
+  min-width: 100vh;
+  height: 300px;
+  display: flex;
+  justify-content: left;
+  color: white;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), transparent);
+}
+.titulo{
+    
+    position: relative;
+    margin-top: -300px;
+    margin-left: 17%;
+    justify-content: left;
+    font-size: 150px;
+
+}
+.quadro{
+  border: 2px solid #0a0a0a;         
+  padding: 30px;                  
+  border-radius: 8px;             
+  color: rgb(7, 6, 6);                
+  background-color: transparent;  
+  font-size: 20px;
+  width: fit-content;             
+  margin: 20px auto; 
+  margin-top: -40px;  
+}  
+.card img{
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+  border-radius: 10px;
+}
+.card {
+  position: relative;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  border-radius: 10px;
+  margin: 200px auto;
+  cursor: pointer;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+.caption {
+  position: absolute;
+  bottom: -100%; 
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6); 
+  color: #fff;;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-sizing: border-box;
+  border-radius: 10px ;
+  transition: bottom 0.4s ease;
+  pointer-events: none;
+}
+.card:hover .caption {
+  bottom: 0;
+  pointer-events: auto;
+}
+body {
+  min-height: 100vh;
+  background: linear-gradient(to right, #8B4513, #A0522D,	#CD853F);
+  margin: 0;
+}
+.card2 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 10px;
+}
+.card2 {
+  position: relative;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+  border-radius: 10px;
+  margin: 200px auto;
+  cursor: pointer;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+.caption2 {
+  position: absolute;
+  bottom: -100%; 
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6); 
+  color: #fff;;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-sizing: border-box;
+  border-radius: 10px ;
+  transition: bottom 0.4s ease;
+  pointer-events: none;
+}
+.card2:hover .caption2 {
+  bottom: 0;
+  pointer-events: auto;
+}
+.card3 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 10px;
+}
+.card3 {
+  position: relative;
+  width: 400px;
+  height: 600px;
+  overflow: hidden;
+  border-radius: 10px;
+  margin: 200px auto;
+  cursor: pointer;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+.caption3 {
+  position: absolute;
+  bottom: -100%; 
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6); 
+  color: #fff;;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-sizing: border-box;
+  border-radius: 10px ;
+  transition: bottom 0.4s ease;
+  pointer-events: none;
+}
+.card3:hover .caption3 {
+  bottom: 0;
+  pointer-events: auto;
+}
+.card4 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 10px;
+}
+.card4 {
+  position: relative;
+  width: 400px;
+  height: 500px;
+  overflow: hidden;
+  border-radius: 10px;
+  margin: 200px auto;
+  cursor: pointer;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+.caption4 {
+  position: absolute;
+  bottom: -100%; 
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6); 
+  color: #fff;;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-sizing: border-box;
+  border-radius: 10px ;
+  transition: bottom 0.4s ease;
+  pointer-events: none;
+}
+.card4:hover .caption4 {
+  bottom: 0;
+  pointer-events: auto;
+}
+.card5 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 10px;
+}
+.card5 {
+  position: relative;
+  width: 400px;
+  height: 600px;
+  overflow: hidden;
+  border-radius: 10px;
+  margin: 200px auto;
+  cursor: pointer;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+.caption5 {
+  position: absolute;
+  bottom: -100%; 
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6); 
+  color: #fff;;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-sizing: border-box;
+  border-radius: 10px ;
+  transition: bottom 0.4s ease;
+  pointer-events: none;
+}
+.card5:hover .caption5 {
+  bottom: 0;
+  pointer-events: auto;
+}
+.card6 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 10px;
+}
+.card6 {
+  position: relative;
+  width: 500px;
+  height: 400px;
+  overflow: hidden;
+  border-radius: 10px;
+  margin: 200px auto;
+  cursor: pointer;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+.caption6 {
+  position: absolute;
+  bottom: -100%; 
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6); 
+  color: #fff;;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-sizing: border-box;
+  border-radius: 10px ;
+  transition: bottom 0.4s ease;
+  pointer-events: none;
+}
+.card6:hover .caption6 {
+  bottom: 0;
+  pointer-events: auto;
+}
