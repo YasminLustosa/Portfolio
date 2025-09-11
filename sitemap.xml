@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+   <url>
+      <loc>https://yasminlustosa.github.io/Portfolio/</loc>
+       <image:image>
+         <image:loc>https://yasminlustosa.github.io/Portfolio/Assets/Paisagem1.jpeg</image:loc>
+         <image:caption>Foto de paisagem 1</image:caption>
+      </image:image>
+       <image:image>
+         <image:loc>https://yasminlustosa.github.io/Portfolio/Assets/Paisagem7.jpeg</image:loc>
+         <image:caption>Foto de paisagem 7</image:caption>
+      </image:image>
+      
+      <image:image>
+         <image:loc>https://yasminlustosa.github.io/Portfolio/Assets/Paisagem17.jpeg</image:loc>
+         <image:caption>Foto de paisagem 17</image:caption>
+      </image:image>
+      <image:image>
+         <image:loc>https://yasminlustosa.github.io/Portfolio/Assets/Paisagem11.jpeg</image:loc>
+         <image:caption>Foto de paisagem 11</image:caption>
+      </image:image>
+      <image:image>
+         <image:loc>https://yasminlustosa.github.io/Portfolio/Assets/Paisagem20.jpg</image:loc>
+         <image:caption>Foto de paisagem 20</image:caption>
+      </image:image>
+      <image:image>
+         <image:loc>https://yasminlustosa.github.io/Portfolio/Assets/Paisagem18.jpeg</image:loc>
+         <image:caption>Foto de paisagem 18</image:caption>
+      </image:image>
+   </url>
+</urlset>
