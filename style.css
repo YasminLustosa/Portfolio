@@ -8,8 +8,10 @@
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), transparent);
 }
 .titulo{    
+    position: relative;
     margin-top: -300px;
-    justify-content: center;
+    margin-left: 14%;
+    justify-content: left;
     font-size: 150px;
 }
 .quadro{
@@ -256,6 +258,7 @@ body {
   bottom: 0;
   pointer-events: auto;
 }
+
 
 
 
