@@ -11,7 +11,7 @@
     
     position: relative;
     margin-top: -300px;
-    margin-left: 17%;
+    margin-left: 16%;
     justify-content: left;
     font-size: 150px;
 
@@ -260,3 +260,4 @@ body {
   bottom: 0;
   pointer-events: auto;
 }
+
