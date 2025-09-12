@@ -7,8 +7,9 @@
   color: white;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), transparent);
 }
-.titulo{
-    
+.titulo{    
+    position: relative;
+    margin-top: -300px;
     justify-content: center;
     font-size: 150px;
 }
@@ -256,6 +257,7 @@ body {
   bottom: 0;
   pointer-events: auto;
 }
+
 
 
 
