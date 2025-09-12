@@ -9,7 +9,7 @@
 }
 .titulo{
     
-    position: relative;
+    position: center;
     margin-top: -300px;
     margin-left: 15%;
     justify-content: left;
@@ -260,5 +260,6 @@ body {
   bottom: 0;
   pointer-events: auto;
 }
+
 
 
